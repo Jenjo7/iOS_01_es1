@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "prima app/AppDelegate.swift"
+            timestampString = "514995771.557301"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prima_app.AppDelegate.__deallocating_deinit"
+                  moduleName = "prima app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianni.savini/Desktop/prima%20app/prima%20app/AppDelegate.swift"
+                  timestampString = "514995772.024096"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prima_app.AppDelegate.init () -&gt; prima_app.AppDelegate"
+                  moduleName = "prima app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianni.savini/Desktop/prima%20app/prima%20app/AppDelegate.swift"
+                  timestampString = "514995772.026954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "prima_app.AppDelegate.__allocating_init () -&gt; prima_app.AppDelegate"
+                  moduleName = "prima app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianni.savini/Desktop/prima%20app/prima%20app/AppDelegate.swift"
+                  timestampString = "514995772.028836"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "prima app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gianni.savini/Desktop/prima%20app/prima%20app/AppDelegate.swift"
+                  timestampString = "514995772.03083"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
